@@ -14,3 +14,5 @@ if __name__ == '__main__':
         print(f"{number} is prime.")
     else:
         print(f"{number} is not prime.")
+        # this function determines whether the number is a prime number Leli
+
